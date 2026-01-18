@@ -1,4 +1,4 @@
-Hi 👋 My name is Pol Llandre Uy  
+Hi 👋 I'm Pol Llandre Uy  
 ================================
 
 **Embedded Systems Software Engineer | Android Developer**
@@ -12,10 +12,10 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
 ## 🧠 What I Do
 
 - Design and maintain **embedded software** for production devices  
-- Build **OTA update pipelines** (client, server, tooling, failure handling)  
+- Worked on **OTA update pipelines** (client, server, interfaces, failure handling, testing)  
 - Develop **system-level and application-level components** on Android firmware  
 - Debug complex issues across hardware, OS, and application layers  
-- Investigate failures that don’t show up in ideal conditions  
+- Haves too much fun debugging issues...  
 
 ---
 
