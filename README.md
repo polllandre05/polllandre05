@@ -1,18 +1,34 @@
+Hi 👋 My name is Pol Llandre Uy  
+================================
 
-<!--
-**polllandre05/polllandre05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems Software Engineer | Android Developer**
 
-Here are some ideas to get you started:
+I work on embedded systems and robotics, close to the hardware, where software failures have real-world consequences. My focus is on building reliable, debuggable systems that run unattended and are expected to recover when things go wrong.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OTA systems, and IoT devices**.
+
+---
+
+## 🧠 What I Do
+
+- Design and maintain **embedded software** for production devices  
+- Build **OTA update pipelines** (client, server, tooling, failure handling)  
+- Develop **system-level and application-level components** on Android firmware  
+- Debug complex issues across hardware, OS, and application layers  
+- Investigate failures that don’t show up in ideal conditions  
+
+---
+
+## 🧩 About Me
+
+- 🌍 Based in **Manila, Philippines**  
+- ✉️ Contact: [polllandre.uy.dev@gmail.com](mailto:polllandre.uy.dev@gmail.com)  
+- 🧠 Currently learning **Web Development** to broaden system-level understanding  
+- 🏍️ Enjoys traveling and riding my motorcycle!
+- 🐱 Loves animals — **especially cats**. Volunteer feeder for stray cats and dogs community
+- 🎮 Might play too much games in my free time...
+
+---
 
 <!-- Tech Stack Section -->
 <h3 align="center">💻 Tech Stack:</h3>
