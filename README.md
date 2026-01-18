@@ -9,10 +9,9 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
 
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+<table><tr><td width="50%" valign="top">
 
-<div>
-<h3>🧩 About Me</h3>
+### 🧩 About Me
 
 - 🌍 Based in **Manila, Philippines**  
 - ✉️ Contact: [polllandre.uy.dev@gmail.com](mailto:polllandre.uy.dev@gmail.com)  
@@ -21,19 +20,18 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
 - 🐱 Loves animals — **especially cats**. Volunteer feeder for stray cats and dogs community
 - 🎮 Might play too much games in my free time...
 - Currently re-learning Web Development...
-</div>
 
-<div>
-<h3>🧠 What I Do</h3>
+</td><td width="50%" valign="top">
+
+### 🧠 What I Do
 
 - Design and maintain **embedded software** for production devices  
 - Worked on **OTA update pipelines** (client, server, interfaces, failure handling, testing)  
 - Develop **system-level and application-level components** on Android firmware  
 - Debug complex issues across hardware, OS, and application layers  
 - Haves too much fun debugging issues...
-</div>
 
-</div>
+</td></tr></table>
 
 ---
 
