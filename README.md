@@ -33,142 +33,74 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
 ---
 
 <!-- Tech Stack Section -->
-<h3 align="center">💻 Tech Stack:</h3>
-
-<!-- Tech Stack Section -->
 <h3 align="center">💻 Tech Stack</h3>
 
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-  justify-content: center;
-  max-width: 1000px;
-  margin: 0 auto;
-">
+<p align="center">
 
-  <!-- Core -->
-  <div style="
-    border: 2px solid #333;
-    border-radius: 12px;
-    padding: 16px;
-    min-width: 220px;
-    text-align: center;
-  ">
-    <h4>Core</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/><br>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/>
-    </p>
-  </div>
+  <kbd>
+    <kbd>🔩 Core</kbd><br><br>
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" />
+  </kbd>
 
-  <!-- Scripting -->
-  <div style="
-    border: 2px solid #333;
-    border-radius: 12px;
-    padding: 16px;
-    min-width: 220px;
-    text-align: center;
-  ">
-    <h4>Scripting</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36"/>
-    </p>
-  </div>
+  <kbd>
+    <kbd>📜 Scripting</kbd><br><br>
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" />
+  </kbd>
 
-  <!-- Editors -->
-  <div style="
-    border: 2px solid #333;
-    border-radius: 12px;
-    padding: 16px;
-    min-width: 220px;
-    text-align: center;
-  ">
-    <h4>Code Editors</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36"/>
-    </p>
-  </div>
+  <kbd>
+    <kbd>🧑‍💻 Editors</kbd><br><br>
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" />
+  </kbd>
 
-  <!-- Frontend -->
-  <div style="
-    border: 2px solid #333;
-    border-radius: 12px;
-    padding: 16px;
-    min-width: 220px;
-    text-align: center;
-  ">
-    <h4>Frontend</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36"/>
-    </p>
-  </div>
+  <kbd>
+    <kbd>🎨 Frontend</kbd><br><br>
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />
+  </kbd>
 
-  <!-- Backend -->
-  <div style="
-    border: 2px solid #333;
-    border-radius: 12px;
-    padding: 16px;
-    min-width: 220px;
-    text-align: center;
-  ">
-    <h4>Backend & DB</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36"/><br>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/>
-    </p>
-  </div>
+  <kbd>
+    <kbd>⚙️ Backend & DB</kbd><br><br>
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" /><br>
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />
+  </kbd>
 
-  <!-- OS -->
-  <div style="
-    border: 2px solid #333;
-    border-radius: 12px;
-    padding: 16px;
-    min-width: 220px;
-    text-align: center;
-  ">
-    <h4>Operating System</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36"/>
-    </p>
-  </div>
+  <br><br>
 
-  <!-- Other -->
-  <div style="
-    border: 2px solid #333;
-    border-radius: 12px;
-    padding: 16px;
-    min-width: 220px;
-    text-align: center;
-  ">
-    <h4>Other</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36"/>
-    </p>
-  </div>
+  <kbd>
+    <kbd>🖥️ Operating Systems</kbd><br><br>
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" />
+  </kbd>
 
-</div>
+  <kbd>
+    <kbd>📐 Design & CMS</kbd><br><br>
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" />
+  </kbd>
 
-</div>
+  <kbd>
+    <kbd>🧰 Other Tools</kbd><br><br>
+    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" /><br>
+    <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
+  </kbd>
 
-</div>
+</p>
+
 
 <!-- Social Links Section -->
 <h3 align="center">Connect with me:</h3>
