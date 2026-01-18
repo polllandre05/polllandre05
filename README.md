@@ -14,9 +14,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Social Links Section -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polllandre05" alt="polllandre05" /></a> </p>
 
+<h3 align="left">💻 Tech Stack:</h3>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+![](https://github-readme-stats.vercel.app/api?username=polllandre05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=polllandre05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=polllandre05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+![](https://github-profile-trophy.vercel.app/?username=polllandre05&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=polllandre05&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Social Links Section -->
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
