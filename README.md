@@ -26,5 +26,8 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/pol-uy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pol-uy" height="40" width="40" /></a>
 <!-- Instagram -->
 <a href="https://instagram.com/polllandre_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polllandre_" height="40" width="40" /></a>
+<!-- Gmail -->
+<a href="polllandre.uy.dev@gmail.com" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg"
+alt="polllandre.uy.dev@gmail.com" height="40" width="40" /></a>
 
 </p>
