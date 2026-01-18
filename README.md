@@ -9,7 +9,10 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
 
 ---
 
-**🧩 About Me**
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+
+<div>
+<h3>🧩 About Me</h3>
 
 - 🌍 Based in **Manila, Philippines**  
 - ✉️ Contact: [polllandre.uy.dev@gmail.com](mailto:polllandre.uy.dev@gmail.com)  
@@ -17,18 +20,20 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
 - 🏍️ Enjoys traveling and riding my motorcycle!
 - 🐱 Loves animals — **especially cats**. Volunteer feeder for stray cats and dogs community
 - 🎮 Might play too much games in my free time...
-
 - Currently re-learning Web Development...
+</div>
 
----
-
-**🧠 What I Do**
+<div>
+<h3>🧠 What I Do</h3>
 
 - Design and maintain **embedded software** for production devices  
 - Worked on **OTA update pipelines** (client, server, interfaces, failure handling, testing)  
 - Develop **system-level and application-level components** on Android firmware  
 - Debug complex issues across hardware, OS, and application layers  
-- Haves too much fun debugging issues...  
+- Haves too much fun debugging issues...
+</div>
+
+</div>
 
 ---
 
@@ -38,7 +43,7 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
 <p align="center">
 
   <kbd>
-    <kbd>🔩 Core</kbd><br><br>
+    <kbd>Core</kbd><br><br>
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" />
@@ -48,26 +53,26 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
   </kbd>
 
   <kbd>
-    <kbd>📜 Scripting</kbd><br><br>
+    <kbd>Scripting</kbd><br><br>
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" />
   </kbd>
 
   <kbd>
-    <kbd>🧑‍💻 Editors</kbd><br><br>
+    <kbd>Editors</kbd><br><br>
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" />
   </kbd>
 
   <kbd>
-    <kbd>🎨 Frontend</kbd><br><br>
+    <kbd>Frontend</kbd><br><br>
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />
   </kbd>
 
   <kbd>
-    <kbd>⚙️ Backend & DB</kbd><br><br>
+    <kbd>Backend & DB</kbd><br><br>
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" /><br>
@@ -75,22 +80,20 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />
   </kbd>
 
-  <br><br>
-
   <kbd>
-    <kbd>🖥️ Operating Systems</kbd><br><br>
+    <kbd>Operating Systems</kbd><br><br>
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" />
   </kbd>
 
   <kbd>
-    <kbd>📐 Design & CMS</kbd><br><br>
+    <kbd>Design & CMS</kbd><br><br>
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" />
   </kbd>
 
   <kbd>
-    <kbd>🧰 Other Tools</kbd><br><br>
+    <kbd>Other Tools</kbd><br><br>
     <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
     <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
     <img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" /><br>
