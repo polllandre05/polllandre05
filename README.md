@@ -1,7 +1,7 @@
-Hi 👋 I'm Pol Llandre Uy  
-================================
+<h3 align="center">Hi 👋 I'm Pol Uy</h3>  
+<h4 align="center">Embedded Systems Software Engineer | Android Developer</h4>
 
-**Embedded Systems Software Engineer | Android Developer**
+---
 
 I work on embedded systems and robotics, close to the hardware, where software failures have real-world consequences. My focus is on building reliable, debuggable systems that run unattended and are expected to recover when things go wrong.
 
@@ -34,7 +34,14 @@ Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OT
 </td></tr></table>
 
 ---
+### My GitHub Stats
+<table><tr><td width="1000" valign="top">
+<a href="https://github.com/polllandre05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polllandre05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</td><td width="50%" valign="top">
+<a href="http://www.github.com/polllandre05"><img src="https://github-readme-stats.vercel.app/api?username=polllandre05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="polllandre05's GitHub stats" /></a>
+</td></tr></table>
 
+---
 <!-- Tech Stack Section -->
 <h3 align="center">💻 Tech Stack</h3>
 
