@@ -3,9 +3,9 @@
 
 ---
 
-I work on embedded systems and robotics, close to the hardware, where software failures have real-world consequences. My focus is on building reliable, debuggable systems that run unattended and are expected to recover when things go wrong.
+I am currently practicing my skills as software engineer working on embedded systems and robotics. I love how my role involves both software and hardware interactions that allows me to better appreciate my work.
 
-Most of my work sits at the intersection of **Embedded Linux, C/C++, Android, OTA systems, and IoT devices**.
+Most of my work sits at the intersection of embedded Linux, C/C++, Android, OTA systems, and IoT devices.
 
 ---
 
